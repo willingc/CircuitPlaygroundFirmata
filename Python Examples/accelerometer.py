@@ -17,7 +17,8 @@ python accelerometer.py /dev/ttyACM0
 import sys
 import time
 
-# Import CircuitPlayground class from `circuitplayground.py` in the same directory.
+# Import CircuitPlayground class from `circuitplayground.py` file
+# in the same directory.
 from circuitplayground import CircuitPlayground
 
 
